@@ -1,4 +1,4 @@
-{
+
   "taskExplorer.exclude": [
     "**/.vscode-test/**",
     "**/bin/**",
